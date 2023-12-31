@@ -1,0 +1,26 @@
+#title {
+    font-size: 100px;
+    text-align: center;
+    background-color: #ff7f50;
+    color: #fff;
+}
+
+.recipes {
+    background-color: #ff7f50;
+    font-size: 40px;
+    color: #fff;
+}
+
+.food-name {
+    text-align: center;
+    font-size: 80px;
+    background-color: #ff7f50;
+    color: #fff;
+}
+
+.pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #ff7f50;
+}

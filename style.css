@@ -8,13 +8,14 @@
     background-color: #ff7f50;
     color: #fff;
     margin-top: 0%;
+    margin-bottom: 25px;
 }
 
 .recipes {
     background-color: #ff7f50;
     font-size: 40px;
     color: #fff;
-    margin: auto;
+    margin-top: 25px;
 }
 
 .recipe {
@@ -49,6 +50,7 @@ a {
 
 #chef {
     display: block;
+    margin-top: 25px;
     margin-left: auto;
     margin-right: auto;
 }

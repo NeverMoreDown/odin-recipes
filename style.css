@@ -1,16 +1,39 @@
+* {
+    background-color: #ffb69c;
+}
+
 #title {
     font-size: 100px;
     text-align: center;
     background-color: #ff7f50;
     color: #fff;
+    margin-top: 0%;
 }
 
 .recipes {
     background-color: #ff7f50;
     font-size: 40px;
     color: #fff;
+    margin: auto;
 }
 
+.recipe {
+    display: inline-block;
+    padding: 30px;
+    text-align: center;
+    background-color: #4FD0FF;
+    color: #fff;
+    margin-left: 40px;
+    margin-right: 40px;
+    list-style-type: none;
+    text-align: center;
+}
+
+a {
+    background-color: #4FD0FF;
+    color: #fff;
+    text-decoration: none;
+}
 .food-name {
     text-align: center;
     font-size: 80px;
@@ -19,6 +42,12 @@
 }
 
 .pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#chef {
     display: block;
     margin-left: auto;
     margin-right: auto;
